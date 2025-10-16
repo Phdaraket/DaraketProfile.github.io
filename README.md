@@ -1,2 +1,0 @@
-# DaraketProfile
-All Profile
